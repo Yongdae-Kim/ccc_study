@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="_PerpetualCalendar.Calculator" Collapsed="true">
+    <Position X="3.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEgABAAAAABAQAAAAAACAEyAAAAggQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Calculator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_PerpetualCalendar.CalendarDataMaker" Collapsed="true">
+    <Position X="5.25" Y="2.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>CEAABQAgAAIBRAIAAAAAAAgAAAAAQAARAAAAiAAAAgA=</HashCode>
+      <FileName>CalendarDataMaker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_PerpetualCalendar.CalendarForm" Collapsed="true">
+    <Position X="5.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>S8AJAOrL4/57BeD/dHyeAAS+KjwgACIQgQgT5QMB/M8=</HashCode>
+      <FileName>CalendarForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_PerpetualCalendar.CreatedLunarCalculator" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="9.25" Y="5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAIAAAABAEAEAAAgAAAAgAQAAAAApAAAAAYA=</HashCode>
+      <FileName>CreatedLunarCalculator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="_PerpetualCalendar.LunarCalculatorFactory" Collapsed="true">
+    <Position X="11" Y="4" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAgAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>LunarCalculatorFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_PerpetualCalendar.LunarCalendarShower" Collapsed="true">
+    <Position X="9.25" Y="3.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>CAQUAAAAAIIAAAAAAAACAAQAAAAgAQAQAAAAEAACAAA=</HashCode>
+      <FileName>LunarCalendarShower.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_PerpetualCalendar.MonthTableMaker" Collapsed="true">
+    <Position X="1.25" Y="3.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAEAAAIAAAAAEAgAAAAQAAAAAAA=</HashCode>
+      <FileName>MonthTableMaker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_PerpetualCalendar.NotingLunarCalculator" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="11.5" Y="5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>NotingLunarCalculator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="_PerpetualCalendar.Program" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_PerpetualCalendar.ProvidedLunarCalculator" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7" Y="5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAEEAAAAAAABAAgAQAAAAAAAAAAAQA=</HashCode>
+      <FileName>ProvidedLunarCalculator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="_PerpetualCalendar.SolarCalendarShower" Collapsed="true">
+    <Position X="5" Y="3.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAAACAAQAAAAgAQAQAAAAAAAAAEA=</HashCode>
+      <FileName>SolarCalendarShower.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_PerpetualCalendar.天干地支CalendarShower" Collapsed="true">
+    <Position X="7" Y="3.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgCACwAAAAgARgBABAACAAQAAA=</HashCode>
+      <FileName>天干地支CalendarShower.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="_PerpetualCalendar.LunarCalculable" Collapsed="true">
+    <Position X="9.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>LunarCalculable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="맑은 고딕" Size="9" />
+</ClassDiagram>

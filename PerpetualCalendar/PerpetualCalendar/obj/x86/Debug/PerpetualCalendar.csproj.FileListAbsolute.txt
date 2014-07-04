@@ -1,0 +1,10 @@
+C:\Users\softlab\Desktop\Perpetual Calendar\1024\bin\Debug\PerpetualCalendar.exe
+C:\Users\softlab\Desktop\Perpetual Calendar\1024\bin\Debug\PerpetualCalendar.pdb
+C:\Users\softlab\Desktop\Perpetual Calendar\1024\obj\x86\Debug\_PerpetualCalendar.CalendarForm.resources
+C:\Users\softlab\Desktop\Perpetual Calendar\1024\obj\x86\Debug\PerpetualCalendar.csproj.GenerateResource.Cache
+C:\Users\softlab\Desktop\Perpetual Calendar\1024\obj\x86\Debug\PerpetualCalendar.exe
+C:\Users\softlab\Desktop\Perpetual Calendar\1024\obj\x86\Debug\PerpetualCalendar.pdb
+C:\Users\softlab\Desktop\PerpetualCalendar\1024\obj\x86\Debug\PerpetualCalendar.exe
+C:\Users\softlab\Desktop\PerpetualCalendar\1024\obj\x86\Debug\PerpetualCalendar.pdb
+C:\Users\softlab\Desktop\PerpetualCalendar\PerpetualCalendar\obj\x86\Debug\PerpetualCalendar.exe
+C:\Users\softlab\Desktop\PerpetualCalendar\PerpetualCalendar\obj\x86\Debug\PerpetualCalendar.pdb
