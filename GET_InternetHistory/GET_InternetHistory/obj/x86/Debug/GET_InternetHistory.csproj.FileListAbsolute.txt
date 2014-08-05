@@ -1,0 +1,12 @@
+c:\users\softlab\documents\visual studio 2010\Projects\GET_InternetHistory\GET_InternetHistory\bin\Debug\GET_InternetHistory.exe
+c:\users\softlab\documents\visual studio 2010\Projects\GET_InternetHistory\GET_InternetHistory\bin\Debug\GET_InternetHistory.pdb
+c:\users\softlab\documents\visual studio 2010\Projects\GET_InternetHistory\GET_InternetHistory\bin\Debug\system.data.sqlite.dll
+c:\users\softlab\documents\visual studio 2010\Projects\GET_InternetHistory\GET_InternetHistory\obj\x86\Debug\GET_InternetHistory.csprojResolveAssemblyReference.cache
+c:\users\softlab\documents\visual studio 2010\Projects\GET_InternetHistory\GET_InternetHistory\obj\x86\Debug\GET_InternetHistory.exe
+c:\users\softlab\documents\visual studio 2010\Projects\GET_InternetHistory\GET_InternetHistory\obj\x86\Debug\GET_InternetHistory.pdb
+C:\Users\softlab\Desktop\GET_InternetHistory\GET_InternetHistory\obj\x86\Debug\GET_InternetHistory.exe
+C:\Users\softlab\Desktop\GET_InternetHistory\GET_InternetHistory\obj\x86\Debug\GET_InternetHistory.pdb
+C:\Users\softlab\Desktop\GET_InternetHistory\GET_InternetHistory\bin\Debug\GET_InternetHistory.exe
+C:\Users\softlab\Desktop\GET_InternetHistory\GET_InternetHistory\bin\Debug\GET_InternetHistory.pdb
+C:\Users\softlab\Desktop\GET_InternetHistory\GET_InternetHistory\bin\Debug\system.data.sqlite.dll
+C:\Users\softlab\Desktop\GET_InternetHistory\GET_InternetHistory\obj\x86\Debug\GET_InternetHistory.csprojResolveAssemblyReference.cache
