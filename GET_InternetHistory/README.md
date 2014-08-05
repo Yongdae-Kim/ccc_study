@@ -1,3 +1,4 @@
-# get internet history
+# get internet history sample
 
-## using 'system.data.sqlite.dll'
+### using 'system.data.sqlite.dll'
+### save to 'C://History.txt' 
